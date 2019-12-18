@@ -1,0 +1,2 @@
+# ausun_random_res_list
+idaddy_random_resourse_name_list
